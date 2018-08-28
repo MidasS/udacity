@@ -55,4 +55,4 @@ Follow the instructions in `PROJECT1_Navigation.ipynb` to get started with train
 
 ## More Information
 
-For more information on the underlying technology see the [Report](Report.md).
+For more information on the underlying technology see the [Report](https://github.com/MidasS/udacity_drl_project/blob/master/REPORT.md).
