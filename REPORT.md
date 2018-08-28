@@ -3,7 +3,8 @@ DRLND Project 1 - Navigation (Banana environment)
 
 ## Learning Algorithm
 
-The learning algorithm implemented for this project is a **Simple Linear Network**  and used the relu activation function.
+The learning algorithm implemented for this project is a **Double DQN** an optional experimental version of Prioritized Experience Replay.
+.
 ```
 class QNetwork(nn.Module):
     def __init__(self, state_size, action_size, seed, fc1_units=48, fc2_units=48):
@@ -26,7 +27,7 @@ BUFFER_SIZE = 100000     # replay buffer size
 BATCH_SIZE = 64          # minibatch size
 DISCOUNT_FACTOR = 0.99   # discount factor
 TAU = 0.001              # for soft update of target parameters
-LEARNING_RATE = 0.001    # learning rate 
+LEARNING_RATE = 0.006    # learning rate 
 UPDATE_EVERY = 4         # how often to update the network
 ```
 
@@ -42,7 +43,6 @@ These are unchanged from the Udacity example. The BATCH_SIZE and BUFFER_SIZE are
 
 
 ![Plot of Rewards](https://github.com/MidasS/udacity_drl_project/image001.png)
-
 
 
 ![Test Result](https://github.com/MidasS/udacity_drl_project/image003.png)
