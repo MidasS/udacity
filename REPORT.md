@@ -31,19 +31,25 @@ LEARNING_RATE = 0.006    # learning rate
 UPDATE_EVERY = 4         # how often to update the network
 ```
 
-These are unchanged from the Udacity example. The BATCH_SIZE and BUFFER_SIZE are parameters for the **ReplayBuffer** class, an "memory" randomly sampled at each step to obtain _experiences_ passed into the **learn** method with a discount of GAMMA. LEARNING_RATE is a parameter to the **Adam** optimizer. TAU is a parameter for a _soft update_ of the target and local models. Finally, UPDATE_EVERY determines the number of steps before learning from a new sample.
+These are unchanged from the Udacity example. The BATCH_SIZE and BUFFER_SIZE are parameters for the **ReplayBuffer** class, an "memory" randomly sampled at each step to obtain _experiences_ passed into the **learn** method with a discount of G. LEARNING_RATE is a parameter to the **Adam** optimizer and it is slightly changed . TAU is a parameter for a _soft update_ of the target and local models. Finally, UPDATE_EVERY determines the number of steps before learning from a new sample.
 
 #### Model Architecture
 
  The model is a mapping of state to action values via fully connected **Linear** layers with **relu** activation. 
 
-## Plot of Rewards
+## Training Result
 
 ![Training Result](https://github.com/MidasS/udacity_drl_project/blob/master/image002.png)
 
 
+
+## Plot of Rewards
+
 ![Plot of Rewards](https://github.com/MidasS/udacity_drl_project/blob/master/image001.png)
 
+
+
+## Test Result
 
 ![Test Result](https://github.com/MidasS/udacity_drl_project/blob/master/image003.png)
 
