@@ -39,16 +39,16 @@ These are unchanged from the Udacity example. The BATCH_SIZE and BUFFER_SIZE are
 
 ## Plot of Rewards
 
-![Training Result](https://github.com/MidasS/udacity_drl_project/image002.png)
+![Training Result](https://github.com/MidasS/udacity_drl_project/blob/master/image002.png)
 
 
-![Plot of Rewards](https://github.com/MidasS/udacity_drl_project/image001.png)
+![Plot of Rewards](https://github.com/MidasS/udacity_drl_project/blob/master/image001.png)
 
 
-![Test Result](https://github.com/MidasS/udacity_drl_project/image003.png)
+![Test Result](https://github.com/MidasS/udacity_drl_project/blob/master/image003.png)
 
 
 
 ## Ideas for Future Work
 
-I will apply the double DQN and Hyperparameter tuning for better performance.
+I will apply other DQN and Hyperparameter tuning for better performance.
