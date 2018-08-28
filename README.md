@@ -50,7 +50,7 @@ To set up your python environment to run the code in this repository, follow the
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+Follow the instructions in `PROJECT1_Navigation.ipynb` to get started with training your own agent!  
 
 
 ## More Information
