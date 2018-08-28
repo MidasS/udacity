@@ -1,118 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea5fb8ae-1f9c-4ff2-960e-5c7b7ecde244" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PRJECT1_Navigation-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.caw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.ecm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.iws.sse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.rgb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.rsc.sse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.vis" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/Google.Protobuf.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/Grpc.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/Mono.Posix.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/Mono.Security.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/System.Configuration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/System.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/System.Interactive.Async.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/System.Security.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/System.Xml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/System.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.AIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ARModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.AccessibilityModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.AnimationModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.AssetBundleModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.AudioModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ClothModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ClusterInputModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.CoreModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.CrashReportingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.DirectorModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.GameCenterModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.GridModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.IMGUIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ImageConversionModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.InputModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.Networking.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.Physics2DModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.PhysicsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.SharedInternalsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.SpatialTracking.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.SpriteShapeModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.StandardEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.TerrainModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.TextRenderingModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.TilemapModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.Timeline.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UIElementsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UIModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UNETModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UnityConnectModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.VRModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.VehiclesModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.VideoModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.WebModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.WindModule.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/UnityEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Managed/mscorlib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/2.0/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.0/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.5/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/browscap.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Plugins/grpc_csharp_ext.x64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Resources/unity default resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/Resources/unity_builtin_extra" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/app.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/boot.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/globalgamemanagers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/globalgamemanagers.assets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/level0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/sharedassets0.assets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/sharedassets0.assets.resS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banana_Windows_x86_64/UnityPlayer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRJECT1_Navigation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REPORT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation_agent_checkpoint.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/udacity_drl_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udacity_drl_project.iml" afterDir="false" />
+    <list default="true" id="ea5fb8ae-1f9c-4ff2-960e-5c7b7ecde244" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRJECT1_Navigation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PRJECT1_Navigation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation_agent_checkpoint.pth" beforeDir="false" afterPath="$PROJECT_DIR$/navigation_agent_checkpoint.pth" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1622">
-              <caret line="1172" column="37" selection-start-line="1172" selection-start-column="37" selection-end-line="1172" selection-end-column="37" />
+            <state relative-caret-position="292">
+              <caret line="1105" column="118" lean-forward="true" selection-start-line="1105" selection-start-column="118" selection-end-line="1105" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -276,6 +168,119 @@
       <recent name="H:\Github\udacity_drl_project" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.ipynb_checkpoints/PRJECT1_Navigation-checkpoint.ipynb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRJECT1_Navigation.ipynb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/REPORT.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -328,9 +333,17 @@
       <option name="presentableId" value="Default" />
       <updated>1535338513943</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1535453337240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535453337240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -340,8 +353,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -352,12 +364,12 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -368,6 +380,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.aspx" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -453,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Banana_Windows_x86_64/Banana_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1622">
-          <caret line="1172" column="37" selection-start-line="1172" selection-start-column="37" selection-end-line="1172" selection-end-column="37" />
+        <state relative-caret-position="292">
+          <caret line="1105" column="118" lean-forward="true" selection-start-line="1105" selection-start-column="118" selection-end-line="1105" selection-end-column="118" />
         </state>
       </provider>
     </entry>
